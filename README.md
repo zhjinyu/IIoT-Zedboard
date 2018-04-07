@@ -1,3 +1,3 @@
 # IIoT-Zedboard
 
-Transplant arty project to zedboard
+Transplant arty IIoT-EDDP project to zedboard
